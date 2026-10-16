@@ -1,0 +1,3 @@
+# Домены, добавленные вручную. Формат: домен  # дата, источник, причина
+kaspi-bannk.com          # KZ-CERT: сайт-двойник Kaspi.kz
+halyk0nline.pro          # 2026-10-16 urlscan: malicious, фейк Halyk Online, /verify просит код

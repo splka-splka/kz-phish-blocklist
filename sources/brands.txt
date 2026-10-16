@@ -1,0 +1,12 @@
+# Регулярки: бренд должен быть отдельным словом в домене
+(^|[.-])kaspi
+(^|[.-])halyk
+(^|[.-])homebank[.-]?kz
+(^|[.-])e-?gov([.-]|kz|$)
+(^|[.-])kazpost
+(^|[.-])kolesa([.-]|kz|$)
+(^|[.-])krisha([.-]|kz|$)
+(^|[.-])jusan([.-]|bank|kz|$)
+(^|[.-])fortebank
+(^|[.-])freedombank
+(^|[.-])berekebank

@@ -1,0 +1,4 @@
+.env
+__pycache__/
+sources/urlscan-review.txt
+dist/kz-hosted-review.txt

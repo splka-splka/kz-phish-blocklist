@@ -1,0 +1,8 @@
+# KZ Phish Blocklist — фишинговые домены, нацеленные на Казахстан
+# Обновлено: 2026-10-16 09:58 UTC
+# Доменов: 4
+# https://github.com/splka-splka/kz-phish-blocklist
+halyk0nline.pro
+kaspi-bannk.com
+kaspibank.auth-telegramm.ru
+kaspiy-delfin.tarho05.ru
